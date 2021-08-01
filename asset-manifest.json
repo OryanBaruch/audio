@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/audio/static/css/main.019da8c1.chunk.css",
+    "main.js": "/audio/static/js/main.65c7992a.chunk.js",
+    "main.js.map": "/audio/static/js/main.65c7992a.chunk.js.map",
+    "runtime-main.js": "/audio/static/js/runtime-main.f729b6b4.js",
+    "runtime-main.js.map": "/audio/static/js/runtime-main.f729b6b4.js.map",
+    "static/js/2.e2586ab7.chunk.js": "/audio/static/js/2.e2586ab7.chunk.js",
+    "static/js/2.e2586ab7.chunk.js.map": "/audio/static/js/2.e2586ab7.chunk.js.map",
+    "index.html": "/audio/index.html",
+    "static/css/main.019da8c1.chunk.css.map": "/audio/static/css/main.019da8c1.chunk.css.map",
+    "static/js/2.e2586ab7.chunk.js.LICENSE.txt": "/audio/static/js/2.e2586ab7.chunk.js.LICENSE.txt",
+    "static/media/audio1.5eb417fc.mp3": "/audio/static/media/audio1.5eb417fc.mp3",
+    "static/media/audio2.37c82282.mp3": "/audio/static/media/audio2.37c82282.mp3",
+    "static/media/audio3.52c24c81.mp3": "/audio/static/media/audio3.52c24c81.mp3",
+    "static/media/audio4.230fcab8.mp3": "/audio/static/media/audio4.230fcab8.mp3",
+    "static/media/audio5.27bdc145.mp3": "/audio/static/media/audio5.27bdc145.mp3",
+    "static/media/audio6.3e1411b4.mp3": "/audio/static/media/audio6.3e1411b4.mp3",
+    "static/media/audio7.2d08c654.mp3": "/audio/static/media/audio7.2d08c654.mp3",
+    "static/media/audio8.f77c6da4.mp3": "/audio/static/media/audio8.f77c6da4.mp3",
+    "static/media/audio9.f2d668af.mp3": "/audio/static/media/audio9.f2d668af.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f729b6b4.js",
+    "static/js/2.e2586ab7.chunk.js",
+    "static/css/main.019da8c1.chunk.css",
+    "static/js/main.65c7992a.chunk.js"
+  ]
+}
